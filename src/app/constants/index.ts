@@ -13,7 +13,7 @@ export const navLinks = [
       { id: 'new1', name: 'Shop New Inventory', href: '/new/inventory' },
       { id: 'new2', name: 'Schedule Test Drive', href: '/new/test-drive' },
       { id: 'new3', name: 'New Vehicle Specials', href: '/new/specials' },
-      { id: 'new4', name: 'Get Pre-Qualified', href: '/finance/pre-qualify' },
+      { id: 'new4', name: 'Get Pre-Qualified', href: '/finance/apply' },
     ],
   },
   {
